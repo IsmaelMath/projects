@@ -51,4 +51,4 @@ print("O seu salário bruto do mês é de R$ {:.2f} onde você tem {} contas "
       "no valor total com juros de R$ {: .2f} e seu salário líquido do "
       "mês é R$ {:.2f}".format(salario, len(contas), total_dividas, salario_liq))
 
-" Essa foi abordagem um pouco complexo mais o codigo vou disponibilizar no github"
+
